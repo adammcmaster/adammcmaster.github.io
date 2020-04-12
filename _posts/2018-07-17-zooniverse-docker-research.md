@@ -1,6 +1,5 @@
 ---
 title: Why You Should Use Docker in Your Research
-Date: July 17, 2018
 ---
 
 I gave a talk at the [Wetton Workshop](https://wetton.web.ox.ac.uk/) in Oxford
