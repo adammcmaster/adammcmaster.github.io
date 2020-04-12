@@ -1,6 +1,7 @@
 ---
 title: "Academic Publications"
 permalink: "/publications/"
+classes: "wide"
 ---
 
 ## 2019
