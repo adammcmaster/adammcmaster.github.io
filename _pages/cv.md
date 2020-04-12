@@ -1,5 +1,5 @@
 ---
-title: "Selected CV"
+title: "Curriculum Vitae"
 permalink: "/cv/"
 ---
 
