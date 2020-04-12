@@ -1,5 +1,5 @@
 ---
-Title: "Emergency" Data Retention Bill Already Being Challenged
+title: "Emergency" Data Retention Bill Already Being Challenged
 ---
 
 Two MPs, Tom Watson and David Davis, [are challenging the DRIP
