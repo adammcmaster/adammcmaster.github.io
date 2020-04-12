@@ -71,6 +71,12 @@ author:
 
 footer:
   links:
+    - label: "Categories"
+      icon: "fas fa-layer-group"
+      url: /categories/
+    - label: "Tags"
+      icon: "fas fa-tags"
+      url: /tags/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/astroadammc"
