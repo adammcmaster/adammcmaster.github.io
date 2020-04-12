@@ -21,6 +21,7 @@ twitter_username: AstroAdamMc
 github_username: adammcmaster
 minimal_mistakes_skin: dark
 search: true
+breadcrumbs: true
 
 # Build settings
 markdown: kramdown
