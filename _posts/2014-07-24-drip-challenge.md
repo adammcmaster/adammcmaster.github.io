@@ -1,5 +1,5 @@
 ---
-title: "Emergency" Data Retention Bill Already Being Challenged
+title: '"Emergency" Data Retention Bill Already Being Challenged'
 tags:
     - Privacy
 ---
