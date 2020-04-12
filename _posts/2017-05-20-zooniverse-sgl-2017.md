@@ -1,5 +1,9 @@
 ---
 title: Stargazing Live 2017 Recap
+categories:
+    - Writing
+tags:
+    - Zooniverse
 ---
 
 I wrote a [summary of our experience at Stargazing Live this

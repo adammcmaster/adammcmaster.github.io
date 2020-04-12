@@ -1,5 +1,10 @@
 ---
 title: Web App Health Checks in Docker
+categories:
+    - Code
+tags:
+    - Zooniverse
+    - Docker
 ---
 
 Over at [The Zooniverse](https://www.zooniverse.org/) we've been migrating most

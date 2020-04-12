@@ -1,5 +1,10 @@
 ---
 title: Why You Should Use Docker in Your Research
+categories:
+    - Writing
+tags:
+    - Zooniverse
+    - Docker
 ---
 
 I gave a talk at the [Wetton Workshop](https://wetton.web.ox.ac.uk/) in Oxford

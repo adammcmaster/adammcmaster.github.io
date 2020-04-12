@@ -1,5 +1,10 @@
 ---
 title: Not All Gravitational Waves Start With a Bang
+categories:
+    - Writing
+tags:
+    - Three Alpha
+    - Gravitational Waves
 ---
 
 A post about the [different types of gravitational

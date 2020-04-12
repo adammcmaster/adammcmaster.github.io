@@ -1,5 +1,10 @@
 ---
 title: The Solar System Has a Lot of Water
+categories:
+    - Writing
+tags:
+    - Three Alpha
+    - Solar System
 ---
 
 I wrote about [the various places you can find water in the solar

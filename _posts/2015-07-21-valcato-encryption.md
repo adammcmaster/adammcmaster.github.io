@@ -1,5 +1,10 @@
 ---
 title: Opposing the Snoopers' Charter
+categories:
+    - Writing
+tags:
+    - Privacy
+    - Valcato
 ---
 
 I wrote a post on the Valcato blog [outlining
