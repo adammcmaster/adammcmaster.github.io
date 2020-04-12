@@ -18,8 +18,8 @@ permalink: "/cv/"
 * _The Zooniverse Community_, Participatory Engagement Master Class, Maynooth University, Ire- land, 2017
 
 ## Academic Publications
-&nbsp;
-### 2019
+
+### 2019
 
 * K.-Michael Aye, Megan E. Schwamb, Ganna Portyankina, Candice J. Hansen, __Adam McMaster__, Grant R.M. Miller, Brian Carstensen, Christopher Snyder, Michael Parrish, Stuart Lynn, Chuhong Mai, David Miller, Robert J. Simpson, Arfon M. Smith, _Planet Four: Probing springtime winds on Mars by mapping the southern polar CO2 jet deposits_, Icarus, Volume 319, 2019, Pages 558-598, ISSN 0019-1035, https://doi.org/10.1016/j.icarus.2018.08.018 
 
