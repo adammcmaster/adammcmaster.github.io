@@ -2,6 +2,7 @@
 title: "Curriculum Vitae"
 permalink: "/cv/"
 toc: true
+toc_sticky: true
 ---
 
 ## Education
