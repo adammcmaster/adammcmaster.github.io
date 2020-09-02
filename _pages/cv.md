@@ -7,6 +7,7 @@ toc_sticky: true
 
 ## Education
 
+* 2020 -- present: The Open University, PhD, Variable stars in the SuperWASP all sky survey
 * 2012 -- 2020: The Open University, BSc Natural Sciences (Astronomy and Planetary Science), In Progress
 * 2006 -- 2009: University of Leicester, BSc Computer Science, First Class Honours
 
@@ -30,6 +31,6 @@ See [Academic Publications](/publications/) for a full list of publications, inc
 
 ## Professional Experience
 
-* 2014 -- Present: University of Oxford, Zooniverse Infrastructure Engineer
+* 2014 -- 2020: University of Oxford, Zooniverse Infrastructure Engineer
 * 2011 -- 2014: Rock Kitchen Harris, Web Developer
 * 2002 -- Present: Valcato Hosting, Director
