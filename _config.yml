@@ -61,16 +61,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : >-
     I'm an astronomy PhD student with [the Open University](http://www.open.ac.uk/) studying variable stars in the SuperWASP all sky survey.
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/astroadammc"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/adammcmaster"
-    - label: "Three Alpha"
-      icon: "fas fa-external-link-alt"
-      url: "https://three-alpha.space"
 
 footer:
   links:
