@@ -80,6 +80,15 @@ footer:
     - label: "Tags"
       icon: "fas fa-tags"
       url: /tags/
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/astroadammc"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/adammcmaster"
+    - label: "Three Alpha"
+      icon: "fas fa-external-link-alt"
+      url: "https://three-alpha.space"
 
 defaults:
   # _posts
