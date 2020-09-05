@@ -86,9 +86,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/adammcmaster"
-    - label: "Three Alpha"
-      icon: "fas fa-external-link-alt"
-      url: "https://three-alpha.space"
 
 defaults:
   # _posts
