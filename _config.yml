@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Adam McMaster
-email:
+email: me@adam-mcmaster.com
 description: >-
     I'm an astronomy PhD student with the Open University studying variable stars.
 twitter_username: AstroAdamMc
@@ -99,8 +99,6 @@ defaults:
       comments: true
       share: true
       related: true
-      header:
-        image: /assets/images/cover.jpg
   # _pages
   - scope:
       path: "_pages"
@@ -108,8 +106,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header:
-        image: /assets/images/cover.jpg
 
 category_archive:
   type: liquid
