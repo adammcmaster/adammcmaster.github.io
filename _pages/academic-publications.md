@@ -10,11 +10,11 @@ classes: "wide"
 
 ## 2018
 
-* Christiansen, Jessie L., Ian J. M. Crossfield, Geert Barentsen, Chris J. Lintott, Thomas Barclay, Brooke D. Simmons, Erik Petigura, et al. “The K2-138 System: A Near-Resonant Chain of Five Sub-Neptune Planets Discovered by Citizen Scientists.” The Astronomical Journal 155, no. 2 (January 2018): 57. <https://doi.org/10.3847/1538-3881/aa9be0>.
 * Portyankina, G., K. M. Aye, M. E. Schwamb, C. J. Hansen, __A. McMaster__, G. R. M. Miller, B. Carstensen, et al. “DBSCAN Hyperparameter Tuning for the Planet Four Citizen Science Project.” AGU Fall Meeting Abstracts 41 (December 1, 2018). <http://adsabs.harvard.edu/abs/2018AGUFM.P41D3770P>.
-* Rosenthal, Isaac S., Jarrett E. K. Byrnes, Kyle C. Cavanaugh, Tom W. Bell, Briana Harder, Alison J. Haupt, Andrew T. W. Rassweiler, et al. “Floating Forests: Quantitative Validation of Citizen Science Data Generated From Consensus Classifications.” ArXiv:1801.08522 [Physics, q-Bio], January 25, 2018. <http://arxiv.org/abs/1801.08522>.
-* Schwamb, Megan E., Klaus-Michael Aye, Ganna Portyankina, Candice J. Hansen, Campbell Allen, Sarah Allen, Fred J. Calef, Simone Duca, __Adam McMaster__, and Grant R. M. Miller. “Planet Four: Terrains – Discovery of Araneiforms Outside of the South Polar Layered Deposits.” Icarus, Mars Polar Science VI, 308 (July 1, 2018): 148–87. <https://doi.org/10.1016/j.icarus.2017.06.017>.
 * Schwamb, Megan E., K.-Michael Aye, Ganna Portyankina, Candice Hansen, Chris J. Lintott, __Adam McMaster__, Grant R. Miller, et al. “Mapping Mars’ Southern Springtime Winds and Seasonal Polar Fans with Planet Four” 50 (October 1, 2018): 300.01. <http://adsabs.harvard.edu/abs/2018DPS....5030001S>
+* Schwamb, Megan E., Klaus-Michael Aye, Ganna Portyankina, Candice J. Hansen, Campbell Allen, Sarah Allen, Fred J. Calef, Simone Duca, __Adam McMaster__, and Grant R. M. Miller. “Planet Four: Terrains – Discovery of Araneiforms Outside of the South Polar Layered Deposits.” Icarus, Mars Polar Science VI, 308 (July 1, 2018): 148–87. <https://doi.org/10.1016/j.icarus.2017.06.017>.
+* Rosenthal, Isaac S., Jarrett E. K. Byrnes, Kyle C. Cavanaugh, Tom W. Bell, Briana Harder, Alison J. Haupt, Andrew T. W. Rassweiler, et al. “Floating Forests: Quantitative Validation of Citizen Science Data Generated From Consensus Classifications.” ArXiv:1801.08522 [Physics, q-Bio], January 25, 2018. <http://arxiv.org/abs/1801.08522>.
+* Christiansen, Jessie L., Ian J. M. Crossfield, Geert Barentsen, Chris J. Lintott, Thomas Barclay, Brooke D. Simmons, Erik Petigura, et al. “The K2-138 System: A Near-Resonant Chain of Five Sub-Neptune Planets Discovered by Citizen Scientists.” The Astronomical Journal 155, no. 2 (January 2018): 57. <https://doi.org/10.3847/1538-3881/aa9be0>.
 
 ## 2017
 
