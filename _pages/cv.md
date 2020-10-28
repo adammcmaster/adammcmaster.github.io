@@ -8,7 +8,7 @@ toc_sticky: true
 ## Education
 
 * 2020 -- present: The Open University, PhD, Variable stars in the SuperWASP all sky survey
-* 2012 -- 2020: The Open University, BSc Natural Sciences (Astronomy and Planetary Science), In Progress
+* 2012 -- 2020: The Open University, BSc Natural Sciences (Astronomy and Planetary Science), Upper Second-class Honours
 * 2006 -- 2009: University of Leicester, BSc Computer Science, First Class Honours
 
 ## Conference Presentations
