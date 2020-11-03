@@ -4,6 +4,8 @@ permalink: "/publications/"
 classes: "wide"
 ---
 
+You can also find a list of my publications on [ORCiD](https://orcid.org/0000-0002-4785-7867) and [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A%220000-0002-4785-7867%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+
 ## 2020
 
 * Sonnenfeld, Alessandro, Aprajita Verma, Anupreeta More, Campbell Allen, Elisabeth Baeten, James H. H. Chan, Roger Hutchings, et al. ‘Survey of Gravitationally-Lensed Objects in HSC Imaging (SuGOHI). VI. Crowdsourced Lens Finding with Space Warps’. ArXiv:2004.00634 [Astro-Ph], 3 April 2020. <https://doi.org/10.1051/0004-6361/202038067>.
