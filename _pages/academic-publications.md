@@ -4,6 +4,10 @@ permalink: "/publications/"
 classes: "wide"
 ---
 
+## 2020
+
+* Sonnenfeld, Alessandro, Aprajita Verma, Anupreeta More, Campbell Allen, Elisabeth Baeten, James H. H. Chan, Roger Hutchings, et al. ‘Survey of Gravitationally-Lensed Objects in HSC Imaging (SuGOHI). VI. Crowdsourced Lens Finding with Space Warps’. ArXiv:2004.00634 [Astro-Ph], 3 April 2020. <https://doi.org/10.1051/0004-6361/202038067>.
+
 ## 2019
 
 * Aye, K.-Michael, Megan E. Schwamb, Ganna Portyankina, Candice J. Hansen, __Adam McMaster__, Grant R.M. Miller, Brian Carstensen, et al. “Planet Four: Probing Springtime Winds on Mars by Mapping the Southern Polar CO2 Jet Deposits.” Icarus 319 (February 2019): 558–98. <https://doi.org/10.1016/j.icarus.2018.08.018>.
