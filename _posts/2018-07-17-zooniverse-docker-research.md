@@ -5,6 +5,7 @@ categories:
 tags:
     - Zooniverse
     - Docker
+    - Talks
 ---
 
 I gave a talk at the [Wetton Workshop](https://wetton.web.ox.ac.uk/) in Oxford
