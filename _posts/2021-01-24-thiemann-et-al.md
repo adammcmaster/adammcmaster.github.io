@@ -1,5 +1,5 @@
 ---
-title: New paper&#58; SuperWASP Variable Stars&#58; Classifying Light Curves Using Citizen Science
+title: SuperWASP Variable Stars&#58; Classifying Light Curves Using Citizen Science
 categories:
     - Research
 tags:
