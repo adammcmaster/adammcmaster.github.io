@@ -8,11 +8,11 @@ You can also find a list of my publications on [ORCiD](https://orcid.org/0000-00
 
 ## 2021
 
-* Thiemann, H.B., Norton, A.J., Dickinson, H.J., __McMaster, A.__, Kolb, U.C., 2021. SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science. arXiv:2101.06216 [astro-ph].
+* Thiemann, Heidi B., Andrew J. Norton, Hugh J. Dickinson, __Adam McMaster__, and Ulrich C. Kolb. “SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science.” ArXiv:2101.06216 [Astro-Ph], January 15, 2021. <http://arxiv.org/abs/2101.06216>.
 
 ## 2020
 
-* Sonnenfeld, A., Verma, A., More, A., Baeten, E., Macmillan, C., Wong, K.C., Chan, J.H.H., Jaelani, A.T., Lee, C.-H., Oguri, M., Rusu, C.E., Veldthuis, M., Trouille, L., Marshall, P.J., Hutchings, R., Allen, C., Donnell, J.O., Cornen, C., Davis, C.P., __McMaster, A.__, Lintott, C., Miller, G., 2020. Survey of Gravitationally-lensed Objects in HSC Imaging (SuGOHI) - VI. Crowdsourced lens finding with Space Warps. A&A 642, A148. https://doi.org/10.1051/0004-6361/202038067
+* Sonnenfeld, Alessandro, Aprajita Verma, Anupreeta More, Elisabeth Baeten, Christine Macmillan, Kenneth C. Wong, James H. H. Chan, et al. “Survey of Gravitationally-Lensed Objects in HSC Imaging (SuGOHI) - VI. Crowdsourced Lens Finding with Space Warps.” Astronomy & Astrophysics 642 (October 1, 2020): A148. <https://doi.org/10.1051/0004-6361/202038067>.
 
 ## 2019
 
