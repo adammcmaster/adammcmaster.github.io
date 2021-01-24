@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
+classes: "wide"
 ---
 
 If you'd like to get in touch with me, you have a few options:
