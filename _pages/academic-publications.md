@@ -8,7 +8,7 @@ You can also find a list of my publications on [ORCiD](https://orcid.org/0000-00
 
 ## 2021
 
-* Thiemann, H.B., Norton, A.J., Dickinson, H.J., McMaster, A., Kolb, U.C., 2021. SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science. arXiv:2101.06216 [astro-ph].
+* Thiemann, H.B., Norton, A.J., Dickinson, H.J., __McMaster, A.__, Kolb, U.C., 2021. SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science. arXiv:2101.06216 [astro-ph].
 
 ## 2020
 
