@@ -8,7 +8,7 @@ You can also find a list of my publications on [ORCiD](https://orcid.org/0000-00
 
 ## 2021
 
-* Thiemann, Heidi B., Andrew J. Norton, Hugh J. Dickinson, __Adam McMaster__, and Ulrich C. Kolb. “SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science.” ArXiv:2101.06216 [Astro-Ph], January 15, 2021. <http://arxiv.org/abs/2101.06216>.
+* Thiemann, Heidi B, Andrew J Norton, Hugh J Dickinson, __Adam McMaster__, and Ulrich C Kolb. ‘SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science’. Monthly Notices of the Royal Astronomical Society 502, no. 1 (2 February 2021): 1299–1311. <https://doi.org/10.1093/mnras/stab140>.
 * Eisner, N L, O Barragán, C Lintott, S Aigrain, B Nicholson, T S Boyajian, S Howell, et al. ‘Planet Hunters TESS II: Findings from the First Two Years of TESS’. Monthly Notices of the Royal Astronomical Society 501, no. 4 (18 January 2021): 4669–90. <https://doi.org/10.1093/mnras/staa3739>.
 
 ## 2020
