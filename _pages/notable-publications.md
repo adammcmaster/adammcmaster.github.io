@@ -4,4 +4,5 @@ See [Academic Publications](/publications/) for a full list of publications, inc
 
 ### 2021
 
-* Thiemann, Heidi B., Andrew J. Norton, Hugh J. Dickinson, __Adam McMaster__, and Ulrich C. Kolb. “SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science.” ArXiv:2101.06216 [Astro-Ph], January 15, 2021. <http://arxiv.org/abs/2101.06216>.
+* Thiemann, Heidi B, Andrew J Norton, Hugh J Dickinson, __Adam McMaster__, and Ulrich C Kolb. ‘SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science’. Monthly Notices of the Royal Astronomical Society 502, no. 1 (2 February 2021): 1299–1311. <https://doi.org/10.1093/mnras/stab140>.
+
