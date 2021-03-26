@@ -6,9 +6,14 @@ classes: "wide"
 
 You can also find a list of my publications on [ORCiD](https://orcid.org/0000-0002-4785-7867) and [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A%220000-0002-4785-7867%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
+## 2021
+
+* Thiemann, Heidi B, Andrew J Norton, Hugh J Dickinson, __Adam McMaster__, and Ulrich C Kolb. ‘SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science’. Monthly Notices of the Royal Astronomical Society 502, no. 1 (2 February 2021): 1299–1311. <https://doi.org/10.1093/mnras/stab140>.
+* Eisner, N L, O Barragán, C Lintott, S Aigrain, B Nicholson, T S Boyajian, S Howell, et al. ‘Planet Hunters TESS II: Findings from the First Two Years of TESS’. Monthly Notices of the Royal Astronomical Society 501, no. 4 (18 January 2021): 4669–90. <https://doi.org/10.1093/mnras/staa3739>.
+
 ## 2020
 
-* Sonnenfeld, Alessandro, Aprajita Verma, Anupreeta More, Campbell Allen, Elisabeth Baeten, James H. H. Chan, Roger Hutchings, et al. ‘Survey of Gravitationally-Lensed Objects in HSC Imaging (SuGOHI). VI. Crowdsourced Lens Finding with Space Warps’. ArXiv:2004.00634 [Astro-Ph], 3 April 2020. <https://doi.org/10.1051/0004-6361/202038067>.
+* Sonnenfeld, Alessandro, Aprajita Verma, Anupreeta More, Elisabeth Baeten, Christine Macmillan, Kenneth C. Wong, James H. H. Chan, et al. “Survey of Gravitationally-Lensed Objects in HSC Imaging (SuGOHI) - VI. Crowdsourced Lens Finding with Space Warps.” Astronomy & Astrophysics 642 (October 1, 2020): A148. <https://doi.org/10.1051/0004-6361/202038067>.
 
 ## 2019
 

@@ -13,6 +13,7 @@ toc_sticky: true
 
 ## Conference Presentations
 
+* _An Interactive Catalogue of Variable Stars_, STFC Introductory Course in Astronomy for New Research Students, Armagh, UK, 2021 (online). Winner of 1st prize, Best Student Talk.
 * _Large-Scale Citizen Science with the Zooniverse_, Petabytes to Science/Data Inclusion Revolution, Cambridge, MA, 2019
 * _Zooniverse Project Building Tutorial_, Petabytes to Science/Data Inclusion Revolution, Cambridge, MA, 2019
 * _Building the Zooniverse into Your Pipeline_, Hotwiring the Transient Universe, Northwestern University, 2019
@@ -20,9 +21,7 @@ toc_sticky: true
 * _Building the Zooniverse Platform_, Defining Principles For Mobile Apps and Platforms Development in Citizen Science, Gothenburg University, Sweden, 2017
 * _The Zooniverse Community_, Participatory Engagement Master Class, Maynooth University, Ireland, 2017
 
-## Academic Publications
-
-See [Academic Publications](/publications/) for a full list of publications, including those where my contributions were only minor.
+{% include_relative notable-publications.md %}
 
 ## Other Publications
 
