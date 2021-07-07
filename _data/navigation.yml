@@ -3,6 +3,8 @@ main:
     url: /research/
   - title: "Code"
     url: /code/
+  - title: "Writing"
+    url: /writing/
   - title: "Blog"
     url: /posts/
   - title: "CV"
