@@ -1,5 +1,5 @@
 ---
-title: Astrobites Guest Post on LIGO's Second Neutron Star Merger
+title: Popular Astronomy Article on Learning to Code
 categories:
     - Writing
 tags:
