@@ -25,8 +25,7 @@ toc_sticky: true
 
 ## Other Publications
 
-* _[We Are All Stardust](http://www.newprincipia.com/#/detail?id=87&index=2&themeId=14&pic=https%3A%2F%2Fnew-principle.oss-cn-beijing.aliyuncs.com%2Fimage%2F701559638886838.jpg&classifyName=ASTRONOMY)_, New Principia, Issue 1, 2019
-* _Randomize Your GNOME Wallpaper_ (contributed article), __Linux Desktop Hacks__, Jono Bacon & Nicholas Petreley, O’Reilly Media, 2005, ISBN 978-0596009113
+{% include_relative other-publications.md %}
 
 ## Professional Experience
 
