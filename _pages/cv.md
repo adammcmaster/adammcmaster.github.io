@@ -13,6 +13,7 @@ toc_sticky: true
 
 ## Conference Presentations
 
+* _[SuperWASP and VeSPA: Giving Results Back to Citizen Scientists](/assets/slides/2021-NAM.pdf)_ (poster), NAM 2021, Bath, UK, 2021 (online)
 * _VESPA: The SuperWASP Variable Star Photometry Archive_ (poster), EAS 2021, Leiden, The Netherlands, 2021 (online)
 * _An Interactive Catalogue of Variable Stars_, STFC Introductory Course in Astronomy for New Research Students, Armagh, UK, 2021 (online). Winner of 1st prize, Best Student Talk.
 * _Large-Scale Citizen Science with the Zooniverse_, Petabytes to Science/Data Inclusion Revolution, Cambridge, MA, 2019
