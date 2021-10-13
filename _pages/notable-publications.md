@@ -4,5 +4,6 @@ See [Academic Publications](/publications/) for a full list of publications, inc
 
 ### 2021
 
+* __Adam McMaster__ et al., ‘VeSPA: The SuperWASP Variable Star Photometry Archive’, Research Notes of the AAS 5, no. 10 (October 2021): 228, <https://doi.org/10.3847/2515-5172/ac2de8>.
 * Thiemann, Heidi B, Andrew J Norton, Hugh J Dickinson, __Adam McMaster__, and Ulrich C Kolb. ‘SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science’. Monthly Notices of the Royal Astronomical Society 502, no. 1 (2 February 2021): 1299–1311. <https://doi.org/10.1093/mnras/stab140>.
 
