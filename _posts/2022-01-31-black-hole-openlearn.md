@@ -5,6 +5,9 @@ categories:
 tags:
     - SuperWASP
     - Zooniverse
+    - OpenLearn
+    - Black Holes
+    - Gravitational Lensing
 ---
 
 I wrote an [article about our recently-launched Black Hole Hunters project](https://www.open.edu/openlearn/science-maths-technology/across-the-sciences/how-find-invisible-black-holes) for the Open University's OpenLearn web site:

@@ -4,6 +4,7 @@ categories:
     - Writing
 tags:
     - Programming
+    - Popular Astronomy
 ---
 
 I'm a little late in posting this, but I recently wrote an article for [Popular Astronomy](https://www.popastro.com/main_spa1/about-the-spa/our-lively-magazine-popular-astronomy/). It's for the Young Stargazers section, and in it I encourage students who are considering studying astronomy to learn how to write code:
