@@ -1,6 +1,7 @@
 ---
 permalink: /writing/
 title: "Writing"
+classes: "wide"
 ---
 
 I write articles and blog posts on my own blog, [Three Alpha](https://three-alpha.space/), and occasionally elsewhere:

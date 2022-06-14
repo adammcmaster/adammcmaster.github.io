@@ -1,6 +1,7 @@
 ---
 permalink: /code/
 title: "Code"
+classes: "wide"
 ---
 
 I'm an experienced programmer with a background in building websites and web services, and related tools. You can find some of my code on [my GitHub profile](https://github.com/adammcmaster). Here are a few notable examples:
