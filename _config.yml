@@ -16,7 +16,7 @@
 title: Adam McMaster
 email: me@adam-mcmaster.com
 description: >-
-    I'm an astronomy PhD student with the Open University studying variable stars.
+  I'm an astronomy PhD student with the Open University studying variable stars.
 twitter_username: AstroAdamMc
 github_username: adammcmaster
 minimal_mistakes_skin: dirt
@@ -57,17 +57,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Adam McMaster"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : >-
+  name: "Adam McMaster"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: >-
     I'm an astronomy PhD student with [the Open University](http://www.open.ac.uk/) studying variable stars in the SuperWASP all sky survey.
-  links:		
-     - label: "Twitter"		
-       icon: "fab fa-fw fa-twitter-square"		
-       url: "https://twitter.com/astroadammc"		
-     - label: "GitHub"		
-       icon: "fab fa-fw fa-github"		
-       url: "https://github.com/adammcmaster"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/astroadammc"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/adammcmaster"
 
 footer:
   links:
@@ -96,6 +96,7 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: "wide"
   # _pages
   - scope:
       path: "_pages"
