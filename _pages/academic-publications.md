@@ -6,6 +6,12 @@ classes: "wide"
 
 You can also find a list of my publications on [ORCiD](https://orcid.org/0000-0002-4785-7867) and [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A%220000-0002-4785-7867%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
+## 2022
+
+* Simmons, Brooke D., Chris Lintott, Steven Reece, Campbell Allen, Grant R. M. Miller, Rebekah Yore, David Jones, et al. ‘Disaster, Infrastructure and Participatory Knowledge: The Planetary Response Network’. Citizen Science: Theory and Practice 7, no. 1 (19 May 2022): 21. <https://doi.org/10.5334/cstp.392>.
+* Norton, Andrew J., Hugh J. Dickinson, __Adam McMaster__, Matthew Middleton, and Richard G. West. ‘A SuperWASP Light Curve Displaying a Single Long-Duration Transit: A Jupiter Size Exoplanet in a Very Distant Orbit?’ Research Notes of the AAS 6, no. 4 (April 2022): 84. <https://doi.org/10.3847/2515-5172/ac6811>.
+
+
 ## 2021
 
 * __Adam McMaster__ et al., ‘VeSPA: The SuperWASP Variable Star Photometry Archive’, Research Notes of the AAS 5, no. 10 (October 2021): 228, <https://doi.org/10.3847/2515-5172/ac2de8>.
