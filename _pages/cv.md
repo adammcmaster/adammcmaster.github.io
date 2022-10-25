@@ -18,7 +18,7 @@ toc_sticky: true
 
 ## Conference Presentations
 
-* _[SuperWASP: Black Hole Hunters](/assets/slides/2022-reinforce-bhh.pdf)_, REINFORCE workshop: Fostering citizens’ role in the advance of ground-breaking research in fundamental physics, European Gravitational Observatory, Italy, 2022 (hybrid/remote)
+* _[SuperWASP: Black Hole Hunters](/assets/slides/2022-reinforce-bhh.pdf)_, REINFORCE workshop: Fostering citizens’ role in the advance of ground-breaking research in fundamental physics, European Gravitational Observatory, Italy, 2022 (hybrid/remote, invited)
 * _[Black Hole Hunters: A citizen science search for black hole self-lensing](/assets/slides/2022-NAM.pdf)_ (poster), NAM 2022, University of Warwick, UK, 2022
 * _SuperWASP VeSPA: A public archive of volunteer-labelled variable stars_ (poster), C*Sci, 2022 (online)
 * _[SuperWASP and VeSPA: Giving Results Back to Citizen Scientists](/assets/slides/2021-NAM.pdf)_ (poster), NAM 2021, Bath, UK, 2021 (online)
