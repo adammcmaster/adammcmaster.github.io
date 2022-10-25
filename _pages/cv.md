@@ -37,7 +37,7 @@ toc_sticky: true
 
 {% include_relative other-publications.md %}
 
-## Outreach and Public Engagement
+## Outreach and Public Engagement
 
 * _How Far is That Star?_ (public talk), World Space Week, Online, 2022
 * _Black Hole and Seek_ (festival), British Science Festival, Leicester, 2022
