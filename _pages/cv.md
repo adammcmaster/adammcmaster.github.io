@@ -11,6 +11,11 @@ toc_sticky: true
 * 2012 -- 2020: The Open University, BSc Natural Sciences (Astronomy and Planetary Science), Upper Second-class Honours
 * 2006 -- 2009: University of Leicester, BSc Computer Science, First Class Honours
 
+## Memberships
+
+* 2020 -- present: Fellow of the Royal Astronomical Society
+* 2021 -- present: UKRI Public Engagement Early-Career Researcher (PEER) Forum
+
 ## Conference Presentations
 
 * _[Black Hole Hunters: A citizen science search for black hole self-lensing](/assets/slides/2022-NAM.pdf)_ (poster), NAM 2022, University of Warwick, UK, 2022
@@ -30,6 +35,17 @@ toc_sticky: true
 ## Other Publications
 
 {% include_relative other-publications.md %}
+
+## Outreach and Public Engagement
+
+* _How Far is That Star?_ (public talk), World Space Week, Online, 2022
+* _Black Hole and Seek_ (festival), British Science Festival, Leicester, 2022
+* _Astronomy Needs You!_ (chaired panel discussion), British Science Week, Online, 2022
+* _How Far is That Star?_ (public talk), Pint of Science, Birmingham, 2022
+* Astronomy on Tap Jena (interview), Online, 2022
+* Royal Society Summer Exhibition (festival), London, 2018
+* BlueDot (festival), Jodrell Bank, 2017
+* BlueDot (festival), Jodrell Bank, 2016
 
 ## Professional Experience
 
