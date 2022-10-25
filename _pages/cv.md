@@ -16,6 +16,12 @@ toc_sticky: true
 * 2021 -- present: UKRI Public Engagement Early-Career Researcher (PEER) Forum
 * 2020 -- present: Fellow of the Royal Astronomical Society
 
+{% include_relative notable-publications.md %}
+
+## Other Publications
+
+{% include_relative other-publications.md %}
+
 ## Conference Presentations
 
 * _[SuperWASP: Black Hole Hunters](/assets/slides/2022-reinforce-bhh.pdf)_, REINFORCE workshop: Fostering citizens’ role in the advance of ground-breaking research in fundamental physics, European Gravitational Observatory, Italy, 2022 (hybrid/remote, invited)
@@ -30,12 +36,6 @@ toc_sticky: true
 * _Easier Development and Reproducibility With Docker_, Wetton Workshop: Planning for Surprises -- Data Driven Discovery in the era of Large Data, University of Oxford, UK, 2018
 * _Building the Zooniverse Platform_, Defining Principles For Mobile Apps and Platforms Development in Citizen Science, Gothenburg University, Sweden, 2017
 * _The Zooniverse Community_, Participatory Engagement Master Class, Maynooth University, Ireland, 2017
-
-{% include_relative notable-publications.md %}
-
-## Other Publications
-
-{% include_relative other-publications.md %}
 
 ## Outreach and Public Engagement
 
