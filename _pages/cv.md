@@ -34,6 +34,7 @@ toc_sticky: true
 
 ## Professional Experience
 
+* September 2022 -- December 2022: The Brilliant Club, Impact and Analysis Intern
 * 2014 -- 2020: University of Oxford, Zooniverse Infrastructure Engineer
 * 2011 -- 2014: Rock Kitchen Harris, Web Developer
 * 2002 -- Present: Valcato Hosting, Director
