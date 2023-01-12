@@ -11,9 +11,20 @@ toc_sticky: true
 * 2012 -- 2020: The Open University, BSc Natural Sciences (Astronomy and Planetary Science), Upper Second-class Honours
 * 2006 -- 2009: University of Leicester, BSc Computer Science, First Class Honours
 
+## Memberships
+
+* 2021 -- present: UKRI Public Engagement Early-Career Researcher (PEER) Forum
+* 2020 -- present: Fellow of the Royal Astronomical Society
+
+{% include_relative notable-publications.md %}
+
+## Other Publications
+
+{% include_relative other-publications.md %}
+
 ## Conference Presentations
 
-* _[SuperWASP: Black Hole Hunters](/assets/slides/2022-reinforce-bhh.pdf)_, REINFORCE workshop: Fostering citizens’ role in the advance of ground-breaking research in fundamental physics, European Gravitational Observatory, Italy, 2022 (hybrid/remote)
+* _[SuperWASP: Black Hole Hunters](/assets/slides/2022-reinforce-bhh.pdf)_, REINFORCE workshop: Fostering citizens’ role in the advance of ground-breaking research in fundamental physics, European Gravitational Observatory, Italy, 2022 (hybrid/remote, invited)
 * _[Black Hole Hunters: A citizen science search for black hole self-lensing](/assets/slides/2022-NAM.pdf)_ (poster), NAM 2022, University of Warwick, UK, 2022
 * _SuperWASP VeSPA: A public archive of volunteer-labelled variable stars_ (poster), C*Sci, 2022 (online)
 * _[SuperWASP and VeSPA: Giving Results Back to Citizen Scientists](/assets/slides/2021-NAM.pdf)_ (poster), NAM 2021, Bath, UK, 2021 (online)
@@ -26,11 +37,16 @@ toc_sticky: true
 * _Building the Zooniverse Platform_, Defining Principles For Mobile Apps and Platforms Development in Citizen Science, Gothenburg University, Sweden, 2017
 * _The Zooniverse Community_, Participatory Engagement Master Class, Maynooth University, Ireland, 2017
 
-{% include_relative notable-publications.md %}
+## Outreach and Public Engagement
 
-## Other Publications
-
-{% include_relative other-publications.md %}
+* _How Far is That Star?_ (public talk), World Space Week, Online, 2022
+* _Black Hole and Seek_ (festival), British Science Festival, Leicester, 2022
+* _Astronomy Needs You!_ (chaired panel discussion), British Science Week, Online, 2022
+* _How Far is That Star?_ (public talk), Pint of Science, Birmingham, 2022
+* Astronomy on Tap Jena (interview), Online, 2022
+* Royal Society Summer Exhibition (festival), London, 2018
+* BlueDot (festival), Jodrell Bank, 2017
+* BlueDot (festival), Jodrell Bank, 2016
 
 ## Professional Experience
 
