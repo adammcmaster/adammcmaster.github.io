@@ -24,6 +24,7 @@ toc_sticky: true
 
 ## Conference Presentations
 
+* _[First Microlensing Results from the SuperWASP: Black Hole Hunters citizen science project](http://rr-lyr.irap.omp.eu/photometry/EVS5/presentations/EVS5-AMcMaster.pdf), [5th European Variable Stars Meeting](http://rr-lyr.irap.omp.eu/photometry/EVS5/article_0001.en.php), Barcelona, Spain, 2023
 * _[SuperWASP: Black Hole Hunters -- First Results](/assets/slides/2023-sepnet-bhh.pdf)_, SEPnet Student-Led Conference, The Imitation Game: A Growing Affinity Between Simulations and Observations of Our Universe, Milton Keynes, UK, 2023. Member of organising committee.
 * _[SuperWASP: Black Hole Hunters](/assets/slides/2022-reinforce-bhh.pdf)_, REINFORCE workshop: Fostering citizens’ role in the advance of ground-breaking research in fundamental physics, European Gravitational Observatory, Italy, 2022 (hybrid/remote, invited)
 * _[Black Hole Hunters: A citizen science search for black hole self-lensing](/assets/slides/2022-NAM.pdf)_ (poster), NAM 2022, University of Warwick, UK, 2022
