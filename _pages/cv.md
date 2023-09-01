@@ -24,6 +24,7 @@ toc_sticky: true
 
 ## Conference Presentations
 
+* _Black Hole Hunters: A Future Microlensing Search for Quiescent Black Holes With LSST?_, Rubin Project and Community Workshop 2023, Tucson, AZ, 2023
 * _Black Hole Hunters: A Microlensing Search for Quiescent Black Holes_, NAM 2023, Cardiff University, UK, 2023
 * _[First Microlensing Results from the SuperWASP: Black Hole Hunters citizen science project](http://rr-lyr.irap.omp.eu/photometry/EVS5/presentations/EVS5-AMcMaster.pdf)_, [5th European Variable Stars Meeting](http://rr-lyr.irap.omp.eu/photometry/EVS5/article_0001.en.php), Barcelona, Spain, 2023
 * _[SuperWASP: Black Hole Hunters -- First Results](/assets/slides/2023-sepnet-bhh.pdf)_, SEPnet Student-Led Conference, The Imitation Game: A Growing Affinity Between Simulations and Observations of Our Universe, Milton Keynes, UK, 2023. Member of organising committee.
