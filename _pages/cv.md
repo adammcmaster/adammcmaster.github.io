@@ -11,6 +11,11 @@ toc_sticky: true
 * 2012 -- 2020: The Open University, BSc Natural Sciences (Astronomy and Planetary Science), Upper Second-class Honours
 * 2006 -- 2009: University of Leicester, BSc Computer Science, First Class Honours
 
+## Honours
+
+* 2023: [AOUG Vice-Chancellor Sir John Horlock Award for Science](https://www.aoug.org.uk/aoug-awards/aoug-vice-chancellor-sir-john-horlock-award-for-science/)
+* 2021: 1st prize, Best Student Talk, STFC Introductory Course in Astronomy for New Research Students
+
 ## Memberships
 
 * 2021 -- present: UKRI Public Engagement Early-Career Researcher (PEER) Forum
