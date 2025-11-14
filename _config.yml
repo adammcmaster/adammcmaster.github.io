@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adam McMaster
+title: Dr Adam McMaster
 email: me@adam-mcmaster.com
 description: >-
-  I'm an astronomy PhD student with the Open University studying variable stars.
+  I'm an astronomer with the University of Southampton studying time domain astrophysics with citizen science.
 twitter_username: AstroAdamMc
 github_username: adammcmaster
 minimal_mistakes_skin: dirt
@@ -60,7 +60,7 @@ author:
   name: "Adam McMaster"
   avatar: "/assets/images/bio-photo.jpg"
   bio: >-
-    I'm an astronomy PhD student with [the Open University](http://www.open.ac.uk/) studying variable stars in the SuperWASP all sky survey.
+    I'm an astronomer with [the University of Southampton](https://www.southampton.ac.uk/people/65qw5l/doctor-adam-mcmaster) researching time domain astronomy using citizen science.
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

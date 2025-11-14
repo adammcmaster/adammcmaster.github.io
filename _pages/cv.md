@@ -7,9 +7,17 @@ toc_sticky: true
 
 ## Education
 
-* 2020 -- present: The Open University, PhD, Variable stars in the SuperWASP all sky survey
+* 2020 -- 2025: The Open University, PhD, Citizen Science Classification of Long-Baseline Stellar Variability in the SuperWASP All-Sky Survey
 * 2012 -- 2020: The Open University, BSc Natural Sciences (Astronomy and Planetary Science), Upper Second-class Honours
 * 2006 -- 2009: University of Leicester, BSc Computer Science, First Class Honours
+
+## Professional Experience
+
+* September 2024 -- Present: University of Southampton, Post-Doctoral Reaearch Fellow
+* September 2022 -- December 2022: The Brilliant Club, Impact and Analysis Intern
+* 2014 -- 2020: University of Oxford, Zooniverse Infrastructure Engineer
+* 2011 -- 2014: Rock Kitchen Harris, Web Developer
+* 2002 -- 2024: Valcato Hosting, Director
 
 ## Honours
 
@@ -29,6 +37,7 @@ toc_sticky: true
 
 ## Conference Presentations
 
+* _The Black Hole Hunters project_, Rubin Alerts and Broker Workshop, Oxford, UK, 2025
 * _Black Hole Hunters: A Future Microlensing Search for Quiescent Black Holes With LSST?_, Rubin Project and Community Workshop 2023, Tucson, AZ, 2023
 * _Black Hole Hunters: A Microlensing Search for Quiescent Black Holes_, NAM 2023, Cardiff University, UK, 2023
 * _First Microlensing Results from the SuperWASP: Black Hole Hunters citizen science project_ ([PDF](http://rr-lyr.irap.omp.eu/photometry/EVS5/presentations/EVS5-AMcMaster.pdf), [video](https://www.youtube.com/watch?v=xlNiwW1MRXU&list=PL2a3Clhn8PNXKsjOjwuNVDHafz2uxHC3J&index=2)), [5th European Variable Stars Meeting](http://rr-lyr.irap.omp.eu/photometry/EVS5/article_0001.en.php), Barcelona, Spain, 2023
@@ -56,10 +65,3 @@ toc_sticky: true
 * Royal Society Summer Exhibition (festival), London, 2018
 * BlueDot (festival), Jodrell Bank, 2017
 * BlueDot (festival), Jodrell Bank, 2016
-
-## Professional Experience
-
-* September 2022 -- December 2022: The Brilliant Club, Impact and Analysis Intern
-* 2014 -- 2020: University of Oxford, Zooniverse Infrastructure Engineer
-* 2011 -- 2014: Rock Kitchen Harris, Web Developer
-* 2002 -- Present: Valcato Hosting, Director

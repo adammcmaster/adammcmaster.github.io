@@ -2,6 +2,10 @@
 
 See [Academic Publications](/publications/) for a full list of publications, including those where my contributions were only minor. You can also find a list of my publications on [ORCiD](https://orcid.org/0000-0002-4785-7867) and [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A%220000-0002-4785-7867%22&sort=date%20desc%2C%20bibcode%20desc&p_=0). Notable publications are listed below.
 
+## 2025
+
+* __McMaster, Adam__. Citizen Science Classification of Long-Baseline Stellar Variability in the SuperWASP All-Sky Survey. The Open University, 2025. PhD Thesis. <https://doi.org/10.21954/OU.RO.00104140>.
+
 ### 2022
 
 * Norton, Andrew J., Hugh J. Dickinson, __Adam McMaster__, Matthew Middleton, and Richard G. West. ‘A SuperWASP Light Curve Displaying a Single Long-Duration Transit: A Jupiter Size Exoplanet in a Very Distant Orbit?’ Research Notes of the AAS 6, no. 4 (April 2022): 84. <https://doi.org/10.3847/2515-5172/ac6811>.
