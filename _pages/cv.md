@@ -26,6 +26,7 @@ toc_sticky: true
 
 ## Memberships
 
+* 2024 -- present: Lasair Users Group
 * 2021 -- present: UKRI Public Engagement Early-Career Researcher (PEER) Forum
 * 2020 -- present: Fellow of the Royal Astronomical Society
 
