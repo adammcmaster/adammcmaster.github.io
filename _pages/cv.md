@@ -13,7 +13,7 @@ toc_sticky: true
 
 ## Professional Experience
 
-* September 2024 -- Present: University of Southampton, Post-Doctoral Research Fellow
+* September 2024 -- present: University of Southampton, Post-Doctoral Research Fellow
 * September 2022 -- December 2022: The Brilliant Club, Impact and Analysis Intern
 * 2014 -- 2020: University of Oxford, Zooniverse Infrastructure Engineer
 * 2011 -- 2014: Rock Kitchen Harris, Web Developer
