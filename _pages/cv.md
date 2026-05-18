@@ -38,6 +38,7 @@ toc_sticky: true
 
 ## Conference Presentations
 
+* _The Black Hole Hunters self-lensing detection pipeline_, Microlensing 2026, Heidelberg, Germany, 2026
 * _The Black Hole Hunters project_, Rubin Alerts and Broker Workshop, Oxford, UK, 2025
 * _Black Hole Hunters: A Future Microlensing Search for Quiescent Black Holes With LSST?_, Rubin Project and Community Workshop 2023, Tucson, AZ, 2023
 * _Black Hole Hunters: A Microlensing Search for Quiescent Black Holes_, NAM 2023, Cardiff University, UK, 2023
