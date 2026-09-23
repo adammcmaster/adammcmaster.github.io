@@ -6,6 +6,10 @@ classes: "wide"
 
 You can also find a list of my publications on [ORCiD](https://orcid.org/0000-0002-4785-7867) and [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A%220000-0002-4785-7867%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
+## 2026
+
+* __McMaster, Adam__, Andrew J. Norton, and Hugh J. Dickinson. ‘Photometric Colors and a Rotational Modulation of HD 38451’. Research Notes of the AAS 10, no. 9 (2026): 268. <https://doi.org/10.3847/2515-5172/aea61f>.
+
 ## 2025
 
 * __McMaster, Adam__. Citizen Science Classification of Long-Baseline Stellar Variability in the SuperWASP All-Sky Survey. The Open University, 2025. PhD Thesis. <https://doi.org/10.21954/OU.RO.00104140>.
