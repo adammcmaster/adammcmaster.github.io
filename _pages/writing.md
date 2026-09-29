@@ -4,7 +4,7 @@ title: "Writing"
 classes: "wide"
 ---
 
-I write articles and blog posts on my own blog, [Three Alpha](https://three-alpha.space/), and occasionally elsewhere:
+I write articles and blog posts on my own blog, [Twelve Mountains](https://twelvemountains.com/), and occasionally elsewhere:
 
 {% include_relative other-publications.md %}
 
