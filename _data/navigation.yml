@@ -6,7 +6,7 @@ main:
   - title: "Writing"
     url: /writing/
   - title: "Blog"
-    url: /posts/
+    url: https://twelvemountains.com/
   - title: "CV"
     url: /cv/
   - title: "Contact"
